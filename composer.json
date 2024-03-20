@@ -3,6 +3,7 @@
     "description": "A group of simple php classes as a framework to build a web applications.",
     "homepage": "https://github.com/Hima-Pro/EngineX",
     "type": "library",
+    "version": "24.3.20",
     "license": "MIT",
     "keywords": [
         "php",
