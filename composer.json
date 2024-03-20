@@ -1,0 +1,40 @@
+{
+    "name": "hima-pro/enginex",
+    "description": "A group of simple php classes as a framework to build a web applications.",
+    "homepage": "https://github.com/Hima-Pro/EngineX",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "php",
+        "router",
+        "sql",
+        "utils",
+        "php-class",
+        "laravel-alternative",
+        "database",
+        "validation",
+        "blade"
+    ],
+    "archive": {
+        "exclude": [
+            "/example"
+        ]
+    },
+    "require": {
+        "php": ">=7.4",
+        "ext-json": "*",
+        "eftec/bladeone": "^4.9",
+        "eftec/bladeonehtml": "^2.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "HimaPro\\": "lib/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hima-Pro",
+            "email": "tdim.dev@gmail.com"
+        }
+    ]
+}
