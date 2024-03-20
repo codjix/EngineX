@@ -1,4 +1,5 @@
 vendor
 example/cache/*
+!example/cache/keep
 composer.lock
 tests
