@@ -1,4 +1,4 @@
-# Hima-Pro/EngineX
+# EngineX
 
 A group of simple php classes as a framework to build a web applications.
 
